@@ -5,7 +5,7 @@ packaging_format = 2
 id = "diagnostickoeur"
 name = "DiagnoStickœur"
 
-maintainers = "Tagada"
+maintainers = ["Tagada"]
 
 description.en = "Print sticker labels!"
 description.fr = "Imprimer des stickers !"
