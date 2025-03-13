@@ -5,7 +5,7 @@ packaging_format = 2
 id = "diagnostickoeur"
 name = "DiagnoStickœur"
 
-maintainers = "Tagada"
+maintainers = ["Tagada"]
 
 description.en = "Print sticker labels!"
 description.fr = "Imprimer des stickers !"
@@ -45,8 +45,8 @@ ram.runtime = "50M"
     [resources.data_dir]
 
     [resources.sources.main]
-    url = "https://framagit.org/Tagadda/diagnostickoeur/-/archive/63593999baa60989e9acb447998e88057b3509c9/diagnostickoeur-63593999baa60989e9acb447998e88057b3509c9.tar.gz"
-    sha256 = "59c97ab431991c4ae1243eeaad16148b6fb6c6349002854b31332682da334dff"
+    url = "https://framagit.org/Tagadda/diagnostickoeur/-/archive/e5ea8e213e00a53cb2a119d506d10e8d855a8eba/diagnostickoeur-e5ea8e213e00a53cb2a119d506d10e8d855a8eba.tar.gz"
+    sha256 = "e2181bb4e24fbbddf72753b3c7718a3b39e8f47f99ebeda4bb67a976606e5fed"
 
     autoupdate.strategy = "latest_gitlab_commit"
 
