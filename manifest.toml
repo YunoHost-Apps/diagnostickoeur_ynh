@@ -54,4 +54,4 @@ ram.runtime = "50M"
     [resources.ports]
 
     [resources.apt]
-    packages = "python3, python3-pip"
+    packages = "python3, python3-pip, python3-venv"
