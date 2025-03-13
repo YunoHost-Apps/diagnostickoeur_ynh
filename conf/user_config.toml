@@ -1,0 +1,10 @@
+[UI]
+title = DiagnoStickœurs (> 𐔌 < 🎀)
+history_limit = 999
+items_per_page = 20
+[FOLDERS]
+history_path = __DATA_DIR__/HISTORIQUE
+scanner_path = __DATA_DIR__/SCANNER
+gallery_path = __DATA_DIR__/GALLERIE
+[PRINTER]
+label_type=62

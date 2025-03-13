@@ -1,3 +1,1 @@
-This is a dummy admin doc for this app
-
-The app install dir is `__INSTALL_DIR__`
+Sticker history is saved at `__DATA_DIR__`
