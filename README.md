@@ -21,7 +21,7 @@ It shall NOT be edited by hand.
 Print stickers!!
 
 
-**Shipped version:** 0.2025.03.15~ynh1
+**Shipped version:** 2025.03.15~ynh1
 
 ## Screenshots
 
