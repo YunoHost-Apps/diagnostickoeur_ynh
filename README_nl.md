@@ -21,7 +21,7 @@ Hij mag NIET handmatig aangepast worden.
 Print stickers!!
 
 
-**Geleverde versie:** 0.2025.03.15~ynh1
+**Geleverde versie:** 2025.03.15~ynh1
 
 ## Schermafdrukken
 
