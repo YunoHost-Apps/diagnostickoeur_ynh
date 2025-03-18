@@ -21,7 +21,7 @@ No se debe editar a mano.
 Print stickers!!
 
 
-**Versión actual:** 0.2025.03.15~ynh1
+**Versión actual:** 2025.03.15~ynh1
 
 ## Capturas
 
