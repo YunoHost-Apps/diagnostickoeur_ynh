@@ -49,9 +49,6 @@ popd
 
 ynh_config_add --template="user_config.toml" --destination="$install_dir/user_config.toml"
 
-mkdir -p "$data_dir/HISTORIQUE"
-chown "$app:www-data" "$data_dir/HISTORIQUE"
-
 #=================================================
 # FINALIZE APP INSTALL WITH CURL
 #=================================================
