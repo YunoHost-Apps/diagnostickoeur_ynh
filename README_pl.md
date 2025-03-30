@@ -21,7 +21,7 @@ Nie powinno być ono edytowane ręcznie.
 Print stickers!!
 
 
-**Dostarczona wersja:** 2025.03.15~ynh1
+**Dostarczona wersja:** 2025.03.27~ynh1
 
 ## Zrzuty ekranu
 

@@ -21,7 +21,7 @@ Sie darf NICHT von Hand bearbeitet werden.
 Print stickers!!
 
 
-**Ausgelieferte Version:** 2025.03.15~ynh1
+**Ausgelieferte Version:** 2025.03.27~ynh1
 
 ## Bildschirmfotos
 
