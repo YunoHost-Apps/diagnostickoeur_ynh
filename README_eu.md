@@ -21,7 +21,7 @@ EZ editatu eskuz.
 Print stickers!!
 
 
-**Paketatutako bertsioa:** 2025.03.15~ynh1
+**Paketatutako bertsioa:** 2025.03.27~ynh1
 
 ## Pantaila-argazkiak
 

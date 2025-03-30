@@ -21,7 +21,7 @@ Ini TIDAK boleh diedit dengan tangan.
 Print stickers!!
 
 
-**Versi terkirim:** 2025.03.15~ynh1
+**Versi terkirim:** 2025.03.27~ynh1
 
 ## Tangkapan Layar
 
