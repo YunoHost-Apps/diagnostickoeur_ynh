@@ -21,7 +21,7 @@ Il NE doit PAS être modifié à la main.
 Print stickers!!
 
 
-**Version incluse :** 2025.03.15~ynh1
+**Version incluse :** 2025.03.27~ynh1
 
 ## Captures d’écran
 

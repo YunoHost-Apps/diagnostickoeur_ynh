@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# DiagnoStickœur para Yunohost
+# DiagnoStickœur para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/diagnostickoeur)](https://ci-apps.yunohost.org/ci/apps/diagnostickoeur/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/diagnostickoeur)
@@ -21,7 +21,7 @@ No se debe editar a mano.
 Print stickers!!
 
 
-**Versión actual:** 2025.03.15~ynh1
+**Versión actual:** 2025.03.27~ynh1
 
 ## Capturas
 

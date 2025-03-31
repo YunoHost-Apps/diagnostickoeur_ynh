@@ -21,7 +21,7 @@ EZ editatu eskuz.
 Print stickers!!
 
 
-**Paketatutako bertsioa:** 2025.03.15~ynh1
+**Paketatutako bertsioa:** 2025.03.27~ynh1
 
 ## Pantaila-argazkiak
 
@@ -37,7 +37,7 @@ Print stickers!!
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/diagnostickoeur_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/diagnostickoeur_ynh/tree/testing --debug
