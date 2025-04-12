@@ -14,7 +14,7 @@ source /usr/share/yunohost/helpers
 #=================================================
 # INSTALL DEPENDENCIES
 #=================================================
-ynh_script_progression --message="Installing NodeJS..." --weight=1
+ynh_script_progression "Installing NodeJS..."
 
 ynh_nodejs_install
 
