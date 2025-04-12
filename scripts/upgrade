@@ -24,7 +24,7 @@ ynh_script_progression "Ensuring downward compatibility..."
 #=================================================
 ynh_script_progression --message="Installing NodeJS..." --weight=1
 
-ynh_exec_warn_less ynh_install_nodejs --nodejs_version=$nodejs_version
+ynh_install_nodejs --nodejs_version=$nodejs_version
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
@@ -49,8 +49,8 @@ popd
 # Building frontend
 pushd $install_dir/streamlit_cropper/frontend
   ynh_use_nodejs
-  ynh_exec_as $app npm ci
-  ynh_exec_as $app npm run build
+  ynh_exec_as_app npm ci
+  ynh_exec_as_app npm run build
 popd
 
 #=================================================
