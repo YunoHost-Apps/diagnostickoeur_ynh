@@ -24,7 +24,7 @@ ynh_script_progression "Ensuring downward compatibility..."
 #=================================================
 ynh_script_progression --message="Installing NodeJS..." --weight=1
 
-ynh_install_nodejs --nodejs_version=$nodejs_version
+ynh_nodejs_install
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE

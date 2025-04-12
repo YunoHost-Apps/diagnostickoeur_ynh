@@ -16,7 +16,7 @@ source /usr/share/yunohost/helpers
 #=================================================
 ynh_script_progression --message="Installing NodeJS..." --weight=1
 
-ynh_install_nodejs --nodejs_version=$nodejs_version
+ynh_nodejs_install
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
@@ -58,7 +58,6 @@ ynh_config_add --template="user_config.toml" --destination="$install_dir/user_co
 
 # Building frontend
 pushd $install_dir/streamlit_cropper/frontend
-  ynh_use_nodejs
   ynh_exec_as_app npm ci
   ynh_exec_as_app npm run build
 popd
