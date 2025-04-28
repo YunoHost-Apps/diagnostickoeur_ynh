@@ -10,7 +10,7 @@ maintainers = ["Tagada"]
 description.en = "Print sticker labels!"
 description.fr = "Imprimer des stickers !"
 
-version = "2025.04.16~ynh1"
+version = "2025.04.23~ynh1"
 
 [upstream]
 license = "GPL-3.0-or-later"
@@ -42,8 +42,8 @@ ram.runtime = "50M"
 [resources]
 
     [resources.sources.main]
-    url = "https://framagit.org/stickoeur/diagnostickoeur/-/archive/8f6f79b14cafb412038448235a1bcb8f9977d607/diagnostickoeur-8f6f79b14cafb412038448235a1bcb8f9977d607.tar.bz2"
-    sha256 = "3849e7077053ebccd1cde79f7312dda1b1fb4776ff4292391ed4c2a0052dc40d"
+    url = "https://framagit.org/stickoeur/diagnostickoeur/-/archive/653e9ea623b58d8bf58da67d72b0dc601669ff84/diagnostickoeur-653e9ea623b58d8bf58da67d72b0dc601669ff84.tar.bz2"
+    sha256 = "764be633477071d71f76bef204bcac432f74ced9bb476a23a95096aa3020eb6e"
 
     autoupdate.strategy = "latest_gitlab_commit"
 
