@@ -10,12 +10,16 @@ It shall NOT be edited by hand.
 
 Print sticker labels!
 
-[![Version: 2025.05.22~ynh1](https://img.shields.io/badge/Version-2025.05.22~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/diagnostickoeur/)
+[![Version: 2025.09.11~ynh1](https://img.shields.io/badge/Version-2025.09.11~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/diagnostickoeur/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/diagnostickoeur"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
 <a href="https://github.com/YunoHost-Apps/diagnostickoeur_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
+
+
+## Screenshots
+![Screenshot of DiagnoStickœur](./doc/screenshots/screenshot.png)
 
 ## 📦 Developer info
 
